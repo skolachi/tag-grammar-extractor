@@ -1,0 +1,3 @@
+This distribution contains Tree Adjoining grammars for Spanish extracted from an annotated treebank. The grammar extraction algorithm used to extract these grammars is described in the following paper-
+
+1. Kolachina, P., Bangalore, S. and Kolachina, S., Extracting LTAG grammars from a Spanish treebank, in ‘Proceedings of the Ninth International Conference on Natural Language Processing, ICON-2011’, Macmillan Publishers.
